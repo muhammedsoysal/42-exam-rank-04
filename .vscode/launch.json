@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/muhammedsoysal/Desktop/42-exam-rank-04/ft_popen",
+      "program": "/Users/muhammedsoysal/Desktop/42-exam-rank-04/ft_popen/build/Debug/outDebug"
+    }
+  ]
+}
